@@ -2,3 +2,4 @@
 Compilando conceitos e criando um projeto 
 ## Salvando modificações 
 * Comando git push
+* comando git pull 
