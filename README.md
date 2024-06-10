@@ -4,4 +4,3 @@ Compilando conceitos e criando um projeto
 * Comando git push
 * comando git pull
 * comando git fetch
-* comando git diff
